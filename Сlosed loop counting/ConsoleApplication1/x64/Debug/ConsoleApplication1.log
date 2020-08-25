@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+c:\users\kiril\onedrive\рабочий стол\university\универ\tech\дз\1\consoleapplication1\consoleapplication1\consoleapplication1.cpp(10): warning C4101: arr: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\kiril\OneDrive\Рабочий стол\UNIVERSITY\Универ\Tech\ДЗ\1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
