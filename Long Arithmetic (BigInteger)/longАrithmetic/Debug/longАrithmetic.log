@@ -1,0 +1,6 @@
+﻿  longАrithmetic.cpp
+c:\users\kiril\onedrive\рабочий стол\programming\c++\longаrithmetic\longаrithmetic\longаrithmetic.cpp(34): warning C4101: res: неиспользованная локальная переменная
+c:\users\kiril\onedrive\рабочий стол\programming\c++\longаrithmetic\longаrithmetic\longаrithmetic.cpp(30): warning C4101: temp: неиспользованная локальная переменная
+c:\users\kiril\onedrive\рабочий стол\programming\c++\longаrithmetic\longаrithmetic\longаrithmetic.cpp(118): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+c:\users\kiril\onedrive\рабочий стол\programming\c++\longаrithmetic\longаrithmetic\longаrithmetic.cpp(137): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  longАrithmetic.vcxproj -> C:\Users\kiril\OneDrive\Рабочий стол\PROGRAMMING\C++\longАrithmetic\Debug\longАrithmetic.exe
